@@ -1,0 +1,8 @@
+.ruff_cache/
+.vscode
+.venv
+.benchmarks
+**/__pycache__/
+.DS_Store
+.env
+/testing
